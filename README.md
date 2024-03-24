@@ -17,7 +17,7 @@ I'm passionate about crafting beautiful and user-friendly web experiences. With 
 
 - LinkedIn: [Muhammad Husnain Rashid](linkedin.com/in/muhammad-husnain-rashid-6000ba278)
 - Email: muhammadhusnainrashid.bs@gmail.com
-- Portfolio: [](https://my-protfolio-azure-one.vercel.app/)
+- Portfolio: [My Protfolio](https://my-protfolio-azure-one.vercel.app/)
 
 ## Fun Fact
 
