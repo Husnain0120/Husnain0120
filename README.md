@@ -18,8 +18,8 @@ I'm passionate about crafting beautiful and user-friendly web experiences. With 
 
 Check out some of my projects on GitHub:
 
-- **[JobFinder](link#)**: A brief description of what the project does, the technologies used, and your role in it.
-- **[BlogGang](link)**: A brief description of what the project does, the technologies used, and your role in it.
+- **[JobFinder](link#)**: link of this website currently disabled because website in test face .
+- **[BlogGang](https://blogsgang.vercel.app)**: a website to create to read Amazing content and blogs.
 
 ## Get in Touch
 
