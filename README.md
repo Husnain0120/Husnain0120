@@ -1,6 +1,6 @@
 # Hi there, I'm Husnain 👋
 
-👨‍💻 Full Stack Developer | 🌐 Web Enthusiast | MERN Stack Specialist
+👨‍💻 Full Stack Developer | 🌐 Web Enthusiast | MERN Stack Specialist | Next.js Specialist⏭️
 
 ## About Me
 
@@ -9,7 +9,7 @@ I'm passionate about crafting beautiful and user-friendly web experiences. With 
 ## Skills
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React.js, Node.js, Express.js, Bootstrap, Tailwind CSS
+- **Frameworks/Libraries:** React.js, Next.js, Node.js, Express.js, Bootstrap, Tailwind CSS
 - **Databases:** MongoDB
 - **Tools/Platforms:** Git, VS Code, Firebase
 - **Design:** Figma, Adobe XD
