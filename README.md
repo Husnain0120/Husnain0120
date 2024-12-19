@@ -18,14 +18,15 @@ I'm passionate about crafting beautiful and user-friendly web experiences. With 
 
 Check out some of my projects on GitHub:
 
-- **[JobFinder](link#)**: link of this website currently disabled because website in test face .
-- **[BlogGang](https://blogsgang.vercel.app)**: a website to create to read Amazing content and blogs.
+- **[E-commerce Sotre](https://e-ranius.vercel.app/).
+- **[Social media web app](https://ranius.vercel.app/)
+- **[Live document Share Wite Friends](https://docs-app-gilt.vercel.app/)
 
 ## Get in Touch
 
 - LinkedIn: [Muhammad Husnain Rashid](https://linkedin.com/in/muhammad-husnain-rashid-6000ba278)
 - Email: muhammadhusnainrashid.bs@gmail.com
-- Portfolio: [My Portfolio](https://my-protfolio-azure-one.vercel.app/)
+- Portfolio: [My Portfolio](https://portfolio-app-inky-sigma.vercel.app/)
 
 ## Fun Fact
 
